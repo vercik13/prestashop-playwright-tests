@@ -1,0 +1,18 @@
+{
+  "shops": {
+    "presta178-php74": {
+      "adminURL": "https://www.vemaji.cz/admin570s3avyn/index.php?controller=AdminLogin&token=f00f2fadaa5d27b56ea971390f698819",
+      "admin": {
+        "email": "vero.vokounova@gmail.com",
+        "password": "vemaji13?"
+      },
+      "eshopURL": "https://vemaji.cz/",
+      "productURL": "https://www.vemaji.cz/index.php?id_product=6&rewrite=mug-the-best-is-yet-to-come&controller=product",
+      "db": {
+        "dbURL": "https://neuron.blueboard.cz/adminer/?server=localhost&username=26072_58619",
+        "username": "26072_58619",
+        "password": "vemaji13?"
+      }
+    }
+  }
+}

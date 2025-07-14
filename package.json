@@ -1,0 +1,22 @@
+{
+  "name": "prestashop-playwright-tests",
+  "version": "1.0.0",
+  "description": "Demo project with Playwright E2E tests for a PrestaShop.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vercik13/prestashop-playwright-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vercik13/prestashop-playwright-tests/issues"
+  },
+  "homepage": "https://github.com/vercik13/prestashop-playwright-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.13"
+  }
+}
